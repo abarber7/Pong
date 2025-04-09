@@ -50,6 +50,9 @@ The project was built to demonstrate:
 - [LÖVE2D](https://love2d.org/) (version 11.3 or higher recommended)  
 - Lua (installed automatically with Love2D)
 
+## 📁 Repository Structure
+
+```bash
 Pong/
 ├── main.lua              # Entry point
 ├── Paddle.lua            # Paddle class
